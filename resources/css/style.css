@@ -1,1 +1,18 @@
-"" 
+	body{
+		font-family: Arial, sans-serif;
+		text-align: center;
+	}
+
+
+	.cta {
+		color: white;
+		background-color: blue;
+		padding: 10px 20px;
+		text-decoration: none;
+	}
+
+	.footer {
+		margin-top: 10px;
+		padding: 10px;
+		background-color: #f1f1f1;
+	}
